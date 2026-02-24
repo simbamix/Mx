@@ -29,7 +29,7 @@ http://45.5.116.231:9090/play/a0id/index.m3u8
 http://45.5.116.231:9090/play/a0k0/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.5.116.231:9090/playlist/tvg-logo/a0gj.png",TBN Enlace
 http://45.5.116.231:9090/play/a0gj/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.116.231:9090/playlist/tvg-logo/a0kj.png",FOX SPORTS 3 HD
+#EXTINF:-1 tvg-logo="http://45.5.116.231:9090/playlist/tvg-logo/a0kj.png",ESPN 6 HD
 http://45.5.116.231:9090/play/a0kj/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.5.116.231:9090/playlist/tvg-logo/a0h1.png",Golf Channel HD
 http://45.5.116.231:9090/play/a0h1/index.m3u8
